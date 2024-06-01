@@ -3,7 +3,7 @@
 - 📫 Discord :  IxI456
 -    Languages : Python and Java
 
-  ![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+  ![tryhackme stats](https://raw.githubusercontent.com/IxI2023/IxI2023/master/assets/thm_propic.png)
 
 <!---
 IxI20/IxI20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
